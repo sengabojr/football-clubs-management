@@ -1,0 +1,4 @@
+touch backend/server.js backend/package.jsonnode_modules/
+.env
+.DS_Store
+dist/
